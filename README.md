@@ -162,9 +162,6 @@ voice-cloner/
 ├── requirements.txt
 ├── install.bat
 ├── launch.bat
-├── uploads/
-├── clean_refs/
-├── outputs/
 └── README.md
 ```
 
